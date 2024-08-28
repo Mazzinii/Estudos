@@ -1,0 +1,14 @@
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\bin\Debug\net8.0\Concatenacao.exe
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\bin\Debug\net8.0\Concatenacao.deps.json
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\bin\Debug\net8.0\Concatenacao.runtimeconfig.json
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\bin\Debug\net8.0\Concatenacao.dll
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\bin\Debug\net8.0\Concatenacao.pdb
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.AssemblyInfoInputs.cache
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.AssemblyInfo.cs
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.csproj.CoreCompileInputs.cache
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.dll
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\refint\Concatenacao.dll
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.pdb
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.genruntimeconfig.cache
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\ref\Concatenacao.dll
