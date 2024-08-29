@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\bin\Debug\net8.0\Estrutura Repetitiva.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\bin\Debug\net8.0\Estrutura Repetitiva.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\bin\Debug\net8.0\Estrutura Repetitiva.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\bin\Debug\net8.0\Estrutura Repetitiva.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\bin\Debug\net8.0\Estrutura Repetitiva.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\refint\Estrutura Repetitiva.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\Estrutura Repetitiva.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva\obj\Debug\net8.0\ref\Estrutura Repetitiva.dll

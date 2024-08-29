@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\bin\Debug\net8.0\Estrutura Repetitiva (for).exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\bin\Debug\net8.0\Estrutura Repetitiva (for).deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\bin\Debug\net8.0\Estrutura Repetitiva (for).runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\bin\Debug\net8.0\Estrutura Repetitiva (for).dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\bin\Debug\net8.0\Estrutura Repetitiva (for).pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\refint\Estrutura Repetitiva (for).dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\Estrutura Repetitiva (for).genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Repetitiva (for)\obj\Debug\net8.0\ref\Estrutura Repetitiva (for).dll
