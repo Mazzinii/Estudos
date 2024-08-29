@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj": {}
+    "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj": {
+    "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj",
+        "projectUniqueName": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj",
         "projectName": "Concatenacao",
-        "projectPath": "c:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj",
+        "projectPath": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\Concatenacao.csproj",
         "packagesPath": "C:\\Users\\lmazz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\obj\\",
+        "outputPath": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\Concatenacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lmazz\\AppData\\Roaming\\NuGet\\NuGet.Config"

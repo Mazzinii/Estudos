@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\refint\Estrutura Condicional.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Estrutura Condicional\obj\Debug\net8.0\ref\Estrutura Condicional.dll

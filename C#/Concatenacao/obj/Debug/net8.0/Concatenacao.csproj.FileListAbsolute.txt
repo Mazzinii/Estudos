@@ -12,3 +12,4 @@ c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\refint
 c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.pdb
 c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.genruntimeconfig.cache
 c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\ref\Concatenacao.dll
+c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\obj\Debug\net8.0\Concatenacao.sourcelink.json

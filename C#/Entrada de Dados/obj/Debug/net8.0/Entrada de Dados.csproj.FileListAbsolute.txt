@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\bin\Debug\net8.0\Entrada de Dados.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\refint\Entrada de Dados.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\Entrada de Dados.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Entrada de Dados\obj\Debug\net8.0\ref\Entrada de Dados.dll

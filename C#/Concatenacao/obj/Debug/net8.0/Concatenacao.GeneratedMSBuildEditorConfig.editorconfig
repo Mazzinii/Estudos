@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Concatenacao
-build_property.ProjectDir = c:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\
+build_property.ProjectDir = C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Concatenacao\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

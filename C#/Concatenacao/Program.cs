@@ -20,3 +20,5 @@ System.Console.WriteLine();
 System.Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
 System.Console.WriteLine($"Arrendondado (três casas decimais): {medida:F3}");
 System.Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("F3", CultureInfo.InvariantCulture));
+
+
