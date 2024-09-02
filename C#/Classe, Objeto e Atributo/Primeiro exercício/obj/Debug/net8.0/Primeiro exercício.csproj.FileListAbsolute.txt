@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\bin\Debug\net8.0\Primeiro exercício.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\bin\Debug\net8.0\Primeiro exercício.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\bin\Debug\net8.0\Primeiro exercício.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\bin\Debug\net8.0\Primeiro exercício.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\bin\Debug\net8.0\Primeiro exercício.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\refint\Primeiro exercício.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\Primeiro exercício.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Primeiro exercício\obj\Debug\net8.0\ref\Primeiro exercício.dll
