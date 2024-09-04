@@ -1,5 +1,7 @@
-﻿// Exerc 01
-/*
+﻿using System.Globalization;
+
+// Exerc 01
+
 Pessoa x,y;
 x = new Pessoa();
 y = new Pessoa();
@@ -25,8 +27,8 @@ else if(y.Idade == x.Idade){
 else{
     System.Console.WriteLine("Pessoa mais velha: " + y.Nome);
 }
-*/
-/*
+
+
 // Exerc 02
 
 Salario p1,p2;
@@ -49,28 +51,23 @@ p2.Valor = double.Parse(Console.ReadLine());
 double media = (p1.Valor + p2.Valor) / 2;
 
 System.Console.WriteLine("Salário médio = " + media);
-*/
-/*
+
 // Exerc 02
 
-using System.Globalization;
 
-Retangulo x;
-x = new Retangulo();
-
-
+Retangulo ret;
+ret = new Retangulo();
 
 System.Console.WriteLine("Entre com a largura e altura do retângulo:");
 
-x.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-x.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+ret.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+ret.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-System.Console.WriteLine("Area = " + x.Area().ToString("F2", CultureInfo.InvariantCulture));
-System.Console.WriteLine("Area = " + x.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
-System.Console.WriteLine("Area = " + x.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
-*/
-/*
-using System.Globalization;
+System.Console.WriteLine("Area = " + ret.Area().ToString("F2", CultureInfo.InvariantCulture));
+System.Console.WriteLine("Area = " + ret.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
+System.Console.WriteLine("Area = " + ret.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
+
+//Exerc 03
 
 Funcionario novo;
 novo = new Funcionario();
@@ -92,8 +89,7 @@ double porcentagem = double.Parse(Console.ReadLine(), CultureInfo.InvariantCultu
 novo.Aumentar(porcentagem);
 
 System.Console.WriteLine(novo);
-*/
-using System.Globalization;
+
 
 Notas aluno;
 aluno = new Notas();

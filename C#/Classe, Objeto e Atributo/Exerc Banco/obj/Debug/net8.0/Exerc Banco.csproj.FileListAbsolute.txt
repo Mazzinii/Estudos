@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\bin\Debug\net8.0\Exerc Banco.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\bin\Debug\net8.0\Exerc Banco.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\bin\Debug\net8.0\Exerc Banco.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\bin\Debug\net8.0\Exerc Banco.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\bin\Debug\net8.0\Exerc Banco.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\refint\Exerc Banco.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\Exerc Banco.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Exerc Banco\obj\Debug\net8.0\ref\Exerc Banco.dll

@@ -1,0 +1,15 @@
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\bin\Debug\net8.0\Membros estáticos.exe
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\bin\Debug\net8.0\Membros estáticos.deps.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\bin\Debug\net8.0\Membros estáticos.runtimeconfig.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\bin\Debug\net8.0\Membros estáticos.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\bin\Debug\net8.0\Membros estáticos.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.AssemblyInfoInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.AssemblyInfo.cs
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.csproj.CoreCompileInputs.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.sourcelink.json
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\refint\Membros estáticos.dll
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.pdb
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\Membros estáticos.genruntimeconfig.cache
+C:\Users\lmazz\Downloads\CodeGit\Estudos\C#\Classe, Objeto e Atributo\Membros estáticos\Membros estáticos\obj\Debug\net8.0\ref\Membros estáticos.dll
