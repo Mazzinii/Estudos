@@ -2,38 +2,39 @@
 using Pedidos;
 using Pedidos.Entities.Enums;
 using Pedidos.Entities;
+using System.Globalization;
 
 System.Console.WriteLine("Enter client data:");
-System.Console.WriteLine("Name:");
+System.Console.Write("Name: ");
 string name = Console.ReadLine();
 
-System.Console.WriteLine("Email:");
+System.Console.Write("Email: ");
 string email = Console.ReadLine();
 
-System.Console.WriteLine("Birth date (DD/MM/YYYY)");
+System.Console.Write("Birth date (DD/MM/YYYY): ");
 DateTime birth = DateTime.Parse(Console.ReadLine());
 
 Client client = new Client(name,email,birth);
 
 System.Console.WriteLine("Enter order data:");
-System.Console.WriteLine("Status:");
+System.Console.Write("Status: ");
 
 OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 DateTime now = DateTime.Now;
 
 Order order = new Order(now, status,client);
 
-System.Console.WriteLine("How many order to this order");
+System.Console.Write("How many order to this order? ");
 int orders = int.Parse(Console.ReadLine());
 
 for(int i = 1; i <= orders; i++)
 {
     System.Console.WriteLine($"Enter #{i} item data:");
-    System.Console.WriteLine("Product name:");
+    System.Console.Write("Product name: ");
     string productName = Console.ReadLine();
-    System.Console.WriteLine("Product price:");
-    double productPrice = double.Parse(Console.ReadLine());
-    System.Console.WriteLine("Quantity:");
+    System.Console.Write("Product price: ");
+    double productPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    System.Console.Write("Quantity: ");
     int productQuantity = int.Parse(Console.ReadLine());
 
     Product products = new Product(productName, productPrice);
@@ -41,9 +42,8 @@ for(int i = 1; i <= orders; i++)
     OrderItem orderItems = new OrderItem(productQuantity, productPrice, products);
 
     order.AddItem(orderItems);
-
-
 }
+System.Console.WriteLine();
 
-System.Console.WriteLine(Order);
+System.Console.WriteLine(order);
 
