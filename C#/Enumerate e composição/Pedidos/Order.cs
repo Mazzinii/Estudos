@@ -12,7 +12,7 @@ namespace Pedidos
         public  Client Client { get; set; }
         public List<OrderItem> Items  { get; set; } = new List<OrderItem>();
 
-
+        // Constructors
         public Order()
         {
 
@@ -25,16 +25,19 @@ namespace Pedidos
             Client = client;
         }
 
+        // Metodo para adicionar item na lista
         public void AddItem(OrderItem item)
         {
             Items.Add(item);
         }
 
+        // Metodo para remover item da lista 
         public void RemoveItem(OrderItem item)
         {
             Items.Remove(item);
         }
 
+        // Metodo para calcular o total dos itens
         public double Total()
         {
            double sum = 0;
@@ -45,7 +48,8 @@ namespace Pedidos
            }
            return sum; 
         }
-
+        
+        // Metodo ToString()
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

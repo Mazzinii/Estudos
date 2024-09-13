@@ -1,7 +1,6 @@
-﻿using System.Data.Common;
+﻿
 using Pedidos;
 using Pedidos.Entities.Enums;
-using Pedidos.Entities;
 using System.Globalization;
 
 System.Console.WriteLine("Enter client data:");
@@ -14,6 +13,7 @@ string email = Console.ReadLine();
 System.Console.Write("Birth date (DD/MM/YYYY): ");
 DateTime birth = DateTime.Parse(Console.ReadLine());
 
+//instanciando o cliente 
 Client client = new Client(name,email,birth);
 
 System.Console.WriteLine("Enter order data:");
@@ -22,13 +22,16 @@ System.Console.Write("Status: ");
 OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 DateTime now = DateTime.Now;
 
+//instanciando a order
 Order order = new Order(now, status,client);
 
 System.Console.Write("How many order to this order? ");
 int orders = int.Parse(Console.ReadLine());
 
+//iterando sobre o numero de pedidos do usuario 
 for(int i = 1; i <= orders; i++)
 {
+    //adicionando produto 
     System.Console.WriteLine($"Enter #{i} item data:");
     System.Console.Write("Product name: ");
     string productName = Console.ReadLine();
@@ -37,13 +40,17 @@ for(int i = 1; i <= orders; i++)
     System.Console.Write("Quantity: ");
     int productQuantity = int.Parse(Console.ReadLine());
 
+    //instanciando products
     Product products = new Product(productName, productPrice);
 
+    //adicionando produto na lista OrderItem
     OrderItem orderItems = new OrderItem(productQuantity, productPrice, products);
 
+    //chamando o metodo de adicionar item
     order.AddItem(orderItems);
 }
 System.Console.WriteLine();
 
+//chmando o metodo ToString()
 System.Console.WriteLine(order);
 
