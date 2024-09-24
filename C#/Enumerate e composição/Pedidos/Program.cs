@@ -51,6 +51,6 @@ for(int i = 1; i <= orders; i++)
 }
 System.Console.WriteLine();
 
-//chmando o metodo ToString()
+//chamando o metodo ToString()
 System.Console.WriteLine(order);
 
