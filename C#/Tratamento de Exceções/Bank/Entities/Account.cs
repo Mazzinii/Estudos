@@ -41,5 +41,6 @@ namespace Bank.Entities
 
             return "New balance: " + Balance.ToString("F2", CultureInfo.InvariantCulture);
         }
+        
     }
 }
