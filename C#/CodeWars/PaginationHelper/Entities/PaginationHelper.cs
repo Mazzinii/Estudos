@@ -79,12 +79,12 @@ namespace PaginationHelper.Entities
         /// <returns>The zero-based page index of the page containing the item at the given item index or -1 if the item index is out of range</returns>
         public int PageIndex(int itemIndex)
         {
-            if (itemIndex < 0 || itemIndex > ItemCount){
+            if (itemIndex < 0 || itemIndex >= ItemCount){
                 return -1;
 
             }
-            double calc = (itemIndex + 1)/  ItemsPerPage - 1;
-            return (int)Math.Ceiling(Math.Abs(calc));
+            double calc = itemIndex /  ItemsPerPage ;
+            return (int)Math.Ceiling(calc);
             
         } 
             
