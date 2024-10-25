@@ -23,6 +23,6 @@ static long digPow(int n, int p) {
 System.Console.WriteLine(digPow(92, 1));
 
 
-System.Console.WriteLine(Math.Floor(19.99));
+
 
 

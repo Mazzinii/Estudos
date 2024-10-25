@@ -20,3 +20,5 @@
     }
     return $"{century}th";
   }
+
+System.Console.WriteLine(WhatCentury("2000"));
