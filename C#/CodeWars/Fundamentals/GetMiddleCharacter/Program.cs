@@ -9,5 +9,3 @@
 
   System.Console.WriteLine(GetMiddle("A"));
 
-  
-

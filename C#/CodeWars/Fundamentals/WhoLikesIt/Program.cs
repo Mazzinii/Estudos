@@ -1,4 +1,4 @@
-﻿ static string Likes(string[] name)
+﻿static string Likes(string[] name)
   {
     switch (name.Length)
     {

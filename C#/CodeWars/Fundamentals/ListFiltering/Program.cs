@@ -3,6 +3,3 @@
        //using Oftype to return only int
        return listOfItems.OfType<int>();
    }
-
-
-  

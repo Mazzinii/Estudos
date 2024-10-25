@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Membros estáticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ad600f04b7ceef0f1379b37ee39f66938b8cd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ab16d4c3408438f7be543a475e9eb4bba985ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Membros estáticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Membros estáticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
