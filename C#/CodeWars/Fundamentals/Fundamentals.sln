@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounttheSmileyFaces", "Coun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteNumberinExpandedForm", "WriteNumberinExpandedForm\WriteNumberinExpandedForm.csproj", "{D4CE35EA-4032-4493-B15A-A46083717DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorizeNewMember", "CategorizeNewMember\CategorizeNewMember.csproj", "{EC8054FC-D318-4587-A499-A04FCFD84103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{D4CE35EA-4032-4493-B15A-A46083717DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4CE35EA-4032-4493-B15A-A46083717DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4CE35EA-4032-4493-B15A-A46083717DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8054FC-D318-4587-A499-A04FCFD84103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8054FC-D318-4587-A499-A04FCFD84103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8054FC-D318-4587-A499-A04FCFD84103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8054FC-D318-4587-A499-A04FCFD84103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
