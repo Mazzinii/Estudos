@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\CodeWars\\Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36C93A7-CC14-4F0C-B0E1-F46BBC949C86}|MaximumSubarraySum\\MaximumSubarraySum.csproj|c:\\users\\lmazz\\downloads\\codegit\\estudos\\c#\\codewars\\fundamentals\\maximumsubarraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36C93A7-CC14-4F0C-B0E1-F46BBC949C86}|MaximumSubarraySum\\MaximumSubarraySum.csproj|solutionrelative:maximumsubarraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\CodeWars\\Fundamentals\\MaximumSubarraySum\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumSubarraySum\\Program.cs",
+              "ToolTip": "C:\\Users\\lmazz\\Downloads\\CodeGit\\Estudos\\C#\\CodeWars\\Fundamentals\\MaximumSubarraySum\\Program.cs",
+              "RelativeToolTip": "MaximumSubarraySum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:57:50.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

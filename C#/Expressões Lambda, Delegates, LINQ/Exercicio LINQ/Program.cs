@@ -16,7 +16,7 @@ using (StreamReader sr = File.OpenText(path)){
         employes.Add(new Employes(name,email,salary));
     }
 }
-//seach with salary
+//search with salary
 System.Console.Write("Enter salary: ");
 double search = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 System.Console.WriteLine($"Email of people whose salary is more than {search}");

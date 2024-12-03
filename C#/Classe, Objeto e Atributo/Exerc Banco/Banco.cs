@@ -1,6 +1,6 @@
 using System.Globalization;
 
-class Banco{
+ class Banco{
     
     public double Saldo { get;private set;}
     public int Conta { get; private set; }

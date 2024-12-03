@@ -1,5 +1,4 @@
 ﻿
-
 static List<string> wave(string str)
 {
    List<string> result = new List<string>();
