@@ -10,10 +10,10 @@ class Result
      * The function accepts STRING s as parameter.
      */
 
-    public static void timeConversion(string s)
+    public static string timeConversion(string s)
     {
         DateTime hour = DateTime.ParseExact(s, "hh:mm:sstt", CultureInfo.InvariantCulture);
-        Console.WriteLine($"{hour.ToString("HH:mm:ss")}");
+        return hour.ToString("HH:mm:ss");
          
     }
 
