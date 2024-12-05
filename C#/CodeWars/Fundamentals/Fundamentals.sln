@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DectPangram", "DectPangram\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharactersinYourString", "CountCharactersinYourString\CountCharactersinYourString.csproj", "{5DB640B0-FE17-4485-B730-0563D4F51397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductofConsecutiveFibNumbers", "ProductofConsecutiveFibNumbers\ProductofConsecutiveFibNumbers.csproj", "{D1EB80D8-3091-4FF0-9786-AE73C3CE0165}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{5DB640B0-FE17-4485-B730-0563D4F51397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB640B0-FE17-4485-B730-0563D4F51397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB640B0-FE17-4485-B730-0563D4F51397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EB80D8-3091-4FF0-9786-AE73C3CE0165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EB80D8-3091-4FF0-9786-AE73C3CE0165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EB80D8-3091-4FF0-9786-AE73C3CE0165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EB80D8-3091-4FF0-9786-AE73C3CE0165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
