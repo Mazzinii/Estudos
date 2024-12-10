@@ -32,8 +32,8 @@ class Solution
 
         printFormatedText(formattedText);
 
-       
     }
+
         static string SplitCamelCase(string secondOperation, string value)
         {
             string result = String.Concat(value.Select(c => char.IsUpper(c) ? " " + char.ToLower(c) : c.ToString())).Replace("()", "");
@@ -48,13 +48,17 @@ class Solution
         {
             string[] vectwords = value.Split(' ');
             string result = "";
+            
 
             foreach (string s in vectwords)
-            {
+            { 
                 string wordupper = char.ToUpper(s[0]).ToString();
-                result += $"{s.Remove(0, 1).Insert(0, wordupper)}";
+                result += $"{s.Remove(0, 1).Insert(0, wordupper)}"; 
             }
-            if (secondOperation == "M") result += "()";
+
+            if (secondOperation == "M")  result = char.ToLowerInvariant(result[0]) + result.Substring(1) + "()"; ;
+
+            if (secondOperation == "V") result = char.ToLowerInvariant(result[0]) + result.Substring(1);
 
             return result;
         }
