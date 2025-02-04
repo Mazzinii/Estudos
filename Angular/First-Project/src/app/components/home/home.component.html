@@ -1,1 +1,18 @@
-<p>home works!</p>
+<p>Bem vindo {{ name }}</p>
+<button (click)="submit()">Clique-aqui</button>
+<br />
+<br />
+<button [attr.aria-label]="idButton">Mudando label</button>
+<br />
+<br />
+<button (click)="returnEvent($event)">Retornando Evento</button>
+
+@if(mustShowTitle){
+<h1>Meu título</h1>
+}@else if(name == "Luiz Eduardo Mazzini"){
+<h1>Meu título para Luiz</h1>
+}@else{
+<h1>Não foi verdadeiro</h1>
+} @for (item of listItems; track item){
+<p>{{ item }}</p>
+}
