@@ -10,4 +10,8 @@ import { HomeComponent } from './components/home/home.component';
 })
 export class AppComponent {
   title = 'First-Project';
+
+  logar(event: string) {
+    console.log(event);
+  }
 }
