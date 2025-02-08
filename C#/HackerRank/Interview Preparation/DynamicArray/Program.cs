@@ -12,10 +12,33 @@
 
     public static List<int> dynamicArray(int n, List<List<int>> queries)
     {
-        var result = queries[0];
+        int lastAnswer = 0;
+        List<List<int>> arrays = new List<List<int>>();
+        List<int> result = new List<int>();
+
+
+        for(int i = 0; i < n; i++)
+        {
+            List<int> array = new List<int>();
+            arrays.Add(array);
+        }
+
+        for(int i = 0; i < queries.Count;i++)
+        {
+            int querie = queries[i][0];
+            int array = queries[i][1];
+            int number = queries[i][2];
+
+            if (querie == 1) arrays[(array + lastAnswer) % n].Add(number);
+            else
+            {
+                List<int> seq = arrays[(array + lastAnswer) % n];
+                lastAnswer = seq[array % seq.Count];
+                result.Add(lastAnswer);
+            }
+        }
 
         return result;
-
 
     }
 
