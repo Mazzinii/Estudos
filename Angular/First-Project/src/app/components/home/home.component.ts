@@ -38,6 +38,4 @@ export class HomeComponent {
     this.emitindoValorName.emit(this.name);
     this.SubmitService.SubmitForm();
   }
-
-  
 }
